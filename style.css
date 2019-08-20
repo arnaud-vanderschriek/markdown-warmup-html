@@ -4,11 +4,12 @@ background-color : lightgrey;
 }
 
 h1{
-color:grey;
-text-align:center;
+color:#133247;
 }
 .article
 {
 text-align:left;
 }
-
+.image{
+height:200px;
+width:400px;
